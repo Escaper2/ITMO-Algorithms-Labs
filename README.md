@@ -7,7 +7,7 @@
 [1 Семестр](https://github.com/Escaper2/ITMO-Algorithms-Labs/tree/master/1%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)
 
 
-[2 Семестр](https://github.com/Escaper2/ITMO-Algorithms-Labs/tree/master/1%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)
+[2 Семестр](https://github.com/Escaper2/ITMO-Algorithms-Labs/tree/master/2%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)
 
 
 <img src=https://www.freecodecamp.org/news/content/images/size/w2000/2021/09/dspython.png>
